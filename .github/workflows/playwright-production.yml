@@ -1,4 +1,4 @@
-name: Run e2e tests against production
+jay: Run e2e tests against production
 
 on:
   schedule:
